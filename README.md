@@ -56,7 +56,7 @@
 ## Запуск приложения из командной строки
 проект выполнен с использованием maven 
 ```
-git clone https://github.com/vils007/repgen.git
+git clone https://github.com/vils007/RepGen.git
 cd repgen
 mvn clean package
 java -jar target\RepGen-1.0-jar-with-dependencies.jar settings.xml source-data.tsv my-report.txt```
