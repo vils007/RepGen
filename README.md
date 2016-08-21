@@ -64,7 +64,7 @@ java -jar target\RepGen-1.0-jar-with-dependencies.jar settings.xml source-data.t
 (нужен установленный maven и java)
 
 ##Технологии
-* **java se 8**
+* **java**
 * **maven**
 * **javax** 
 
