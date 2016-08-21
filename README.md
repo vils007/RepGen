@@ -59,7 +59,7 @@
 git clone https://github.com/vils007/RepGen.git
 cd repgen
 mvn clean package
-java -jar target\RepGen-1.0-jar-with-dependencies.jar settings.xml source-data.tsv my-report.txt```
+java -jar target\RepGen-1.0-jar-with-dependencies.jar settings.xml source-data.tsv my-report.txt
 ```
 (нужен установленный maven и java)
 
