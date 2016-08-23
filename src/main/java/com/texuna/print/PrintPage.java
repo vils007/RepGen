@@ -90,7 +90,7 @@ public class PrintPage {
 
 	private List<String> getRostList(String string, int width) {
 		List<String> ls = new ArrayList<String>();
-		// здесь нужен невъебенный regix для поиска слов в предложении 
+		// здесь нужен сложный regix для поиска слов в предложении 
         // пока просто используем пробел как у всех нормальных людей
 		String[] words = string.split(" ");
 		// smoke test tipo
